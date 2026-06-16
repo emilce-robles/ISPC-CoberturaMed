@@ -1,0 +1,16 @@
+streamlit
+ultralytics
+easyocr
+opencv-python
+pillow
+pandas
+numpy
+scikit-learn
+joblib
+requests
+gspread
+google-auth
+torch
+torchvision
+ultralytics
+openai

@@ -1,0 +1,32 @@
+# Versiones viejas de la app
+app copy.py
+app copy 2.py
+app-1.py
+app-ultima-version.py
+app-versionantigua.py
+
+# Datos generados por la app
+data/*.csv
+!data/.gitkeep
+
+# Entornos y caché
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.streamlit/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+#Credenciales
+credentials/
+*.json
+
+
+# VS Code
+.vscode/
+
+
